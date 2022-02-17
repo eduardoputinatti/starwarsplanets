@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starwarsplanets/static/css/main.0c8dd27f.chunk.css",
+    "main.js": "/starwarsplanets/static/js/main.fb6bcf30.chunk.js",
+    "main.js.map": "/starwarsplanets/static/js/main.fb6bcf30.chunk.js.map",
+    "runtime-main.js": "/starwarsplanets/static/js/runtime-main.d5bfae73.js",
+    "runtime-main.js.map": "/starwarsplanets/static/js/runtime-main.d5bfae73.js.map",
+    "static/js/2.7bcb6336.chunk.js": "/starwarsplanets/static/js/2.7bcb6336.chunk.js",
+    "static/js/2.7bcb6336.chunk.js.map": "/starwarsplanets/static/js/2.7bcb6336.chunk.js.map",
+    "index.html": "/starwarsplanets/index.html",
+    "precache-manifest.57d707d3509ad99d2840e6f0d3d64308.js": "/starwarsplanets/precache-manifest.57d707d3509ad99d2840e6f0d3d64308.js",
+    "service-worker.js": "/starwarsplanets/service-worker.js",
+    "static/css/main.0c8dd27f.chunk.css.map": "/starwarsplanets/static/css/main.0c8dd27f.chunk.css.map",
+    "static/js/2.7bcb6336.chunk.js.LICENSE.txt": "/starwarsplanets/static/js/2.7bcb6336.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5bfae73.js",
+    "static/js/2.7bcb6336.chunk.js",
+    "static/css/main.0c8dd27f.chunk.css",
+    "static/js/main.fb6bcf30.chunk.js"
+  ]
+}
